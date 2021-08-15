@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/69120522/129483264-5d31d50a-b799-496d-b340-061476d02946.jpeg)
+![cover](https://user-images.githubusercontent.com/69120522/129487545-b55d3b56-8a45-4231-86cf-bad3359c4e3b.jpeg)
 
 
 ## 🎯 Welcome on my github profile
