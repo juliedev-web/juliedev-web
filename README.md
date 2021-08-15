@@ -1,7 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/69120522/129483264-5d31d50a-b799-496d-b340-061476d02946.jpeg)
 
 
-## Welcome on my github profile
+## 🎯 Welcome on my github profile
 My name is Julie Vandard. after 18 years of journalisme, I decided to become a frontend developper. I did my training at ![O'Clock](https://oclock.io/)
 On my free time, I play music (ukulele, bass and guitar) in several bands.
 
