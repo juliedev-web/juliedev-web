@@ -6,6 +6,7 @@ My name is Julie Vandard. After 18 years of journalism, I decided to become a fr
 
 On my free time, I play music (ukulele, bass and guitar) in several bands.
 
+(don't worry, #FF00FF is not my favorite color 😁 )
 
 ## 💻 What I use to code
 
