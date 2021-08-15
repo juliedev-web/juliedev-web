@@ -21,8 +21,8 @@ I also learned some backend at o'Clock during y training :
 
 ## ✅ How to reach me ?
 - [linkedIn](https://www.linkedin.com/in/julie-vandard/)
-- ![twitter](https://twitter.com/jvgazouille)
-- ![My blog about becoming a web dev (in french)](https://lesmainsdanslecode.com)
+- [twitter](https://twitter.com/jvgazouille)
+- [My blog about becoming a web dev (in french)](https://lesmainsdanslecode.com)
 - Porfolio : work in progress !
 
 <!--
