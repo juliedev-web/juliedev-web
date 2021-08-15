@@ -7,15 +7,12 @@
 My name is Julie Vandard. after 18 years of journalisme, I decided to become a frontend developper.
 On my free time, I play music (ukulele, bass and guitar) in several bands.
 
-## 💻 Langages and tools I use
+## 💻 What I use to code
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- HTML and CSS
-- JavaScript
-- React
-- Redux
-- Sass
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 
 and the famous NPM and Yarn
 
@@ -25,7 +22,7 @@ I also learned some backend at o'Clock dureing y training :
 - PostGreSQL
 
 ## ✅ How to reach me ?
-- ![LinkedIn] (https://www.linkedin.com/in/julie-vandard/)
+- ![[image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)] (https://www.linkedin.com/in/julie-vandard/)
 - ![Twitter] (https://twitter.com/jvgazouille)
 - ![My blog about becoming a web dev (in french)] (https://lesmainsdanslecode.com)
 - Porfolio : work in progress !
