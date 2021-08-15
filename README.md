@@ -8,6 +8,9 @@ My name is Julie Vandard. after 18 years of journalisme, I decided to become a f
 On my free time, I play music (ukulele, bass and guitar) in several bands.
 
 ## 💻 Langages and tools I use
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 - HTML and CSS
 - JavaScript
 - React
