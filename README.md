@@ -2,7 +2,8 @@
 
 
 ## 🎯 Welcome on my github profile
-My name is Julie Vandard. after 18 years of journalisme, I decided to become a frontend developper. I did my training at [O'Clock](https://oclock.io/)
+My name is Julie Vandard. After 18 years of journalism, I decided to become a frontend developper. I did my training at [O'Clock](https://oclock.io/)
+
 On my free time, I play music (ukulele, bass and guitar) in several bands.
 
 
