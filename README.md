@@ -7,7 +7,7 @@
 My name is Julie Vandard. after 18 years of journalisme, I decided to become a frontend developper.
 On my free time, I play music (ukulele, bass and guitar) in several bands.
 
-## Langages and tools I use
+## 💻 Langages and tools I use
 - HTML and CSS
 - JavaScript
 - React
@@ -21,8 +21,11 @@ I also learned some backend at o'Clock dureing y training :
 - Express and EJS
 - PostGreSQL
 
-## How to reach me ?
-
+## ✅ How to reach me ?
+- ![LinkedIn] (https://www.linkedin.com/in/julie-vandard/)
+- ![Twitter] (https://twitter.com/jvgazouille)
+- ![My blog about becoming a web dev (in french)] (https://lesmainsdanslecode.com)
+- Porfolio : work in progress !
 
 <!--
 **juliedev-web/juliedev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
