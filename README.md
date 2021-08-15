@@ -1,11 +1,10 @@
 ![cover](https://user-images.githubusercontent.com/69120522/129483264-5d31d50a-b799-496d-b340-061476d02946.jpeg)
 
 
-### 🚀 Hello World ! 
-
 ## Welcome on my github profile
 My name is Julie Vandard. after 18 years of journalisme, I decided to become a frontend developper. I did my training at ![O'Clock](https://oclock.io/)
 On my free time, I play music (ukulele, bass and guitar) in several bands.
+
 
 ## 💻 What I use to code
 
@@ -13,6 +12,7 @@ On my free time, I play music (ukulele, bass and guitar) in several bands.
 ![image](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+
 
 I also learned some backend at o'Clock during y training :
 
