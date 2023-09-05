@@ -2,9 +2,9 @@
 
 
 ## 🎯 Welcome on my github profile
-My name is Julie Vandard. After 18 years of journalism, I decided to become a frontend developper. I did my training at [O'Clock](https://oclock.io/)
+My name is Julie Vandard. I had the opportunity to learn code. I did my training at [O'Clock](https://oclock.io/) I'm still a journalist but I like to code for fun and to improve my skills.
 
-On my free time, I play music (ukulele, bass and guitar) in several bands.
+On my free time, I play music in several bands.
 
 (don't worry, #FF00FF is not my favorite color 😁 )
 
@@ -26,7 +26,7 @@ I also learned backend at o'Clock during my training with :
 - [linkedIn](https://www.linkedin.com/in/julie-vandard/)
 - [twitter](https://twitter.com/jvgazouille)
 - [My blog about becoming a web dev (in french)](https://lesmainsdanslecode.com)
-- Porfolio : work in progress !
+- [Porfolio](https://julie-vandard-portfolio.netlify.app)
 
 <!--
 **juliedev-web/juliedev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
