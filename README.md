@@ -4,7 +4,7 @@
 ## 🎯 Welcome on my github profile
 My name is Julie Vandard. I had the opportunity to learn code. I did my training at [O'Clock](https://oclock.io/) I'm still a journalist but I like to code for fun and to improve my skills.
 
-On my free time, I play music in several bands.
+On my free time, I play music in several bands. and I take pictures. My instagram [here](https://www.instagram.com/julie_in_the_streets/).
 
 (don't worry, #FF00FF is not my favorite color 😁 )
 
@@ -25,20 +25,4 @@ I also learned backend at o'Clock during my training with :
 ## ✅ How to reach me ?
 - [linkedIn](https://www.linkedin.com/in/julie-vandard/)
 - [twitter](https://twitter.com/jvgazouille)
-- [My blog about becoming a web dev (in french)](https://lesmainsdanslecode.com)
 - [Porfolio](https://julie-vandard-portfolio.netlify.app)
-
-<!--
-**juliedev-web/juliedev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
